@@ -9,10 +9,16 @@ NewsNest is a customized news website designed to present news articles clearly 
 - **Responsive Design:** Optimized for various devices and screen sizes.
 - **Deployed on Netlify:** Live at [NewsNest](https://aniket3s.github.io/NewsNest/).
 
-
+## Home Page
 ![Mproject_pic1](https://github.com/user-attachments/assets/b94b9aa1-4594-49c1-940d-519eee909e1e)
+
+## Search Keyword Result
+
 ![Mproject_pic2](https://github.com/user-attachments/assets/d1c5b975-a6e9-46a2-8b89-9a67328539a7)
 
+## Section Wise Result 
+
+![Mproject_pic3](https://github.com/user-attachments/assets/59348c0f-aea9-4fbf-bcd9-73312bfe2505)
 
 
 ## Installation
